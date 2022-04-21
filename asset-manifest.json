@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manto-pizza/static/css/main.2e8cca27.css",
+    "main.js": "/manto-pizza/static/js/main.ff72f9b0.js",
+    "index.html": "/manto-pizza/index.html",
+    "main.2e8cca27.css.map": "/manto-pizza/static/css/main.2e8cca27.css.map",
+    "main.ff72f9b0.js.map": "/manto-pizza/static/js/main.ff72f9b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8cca27.css",
+    "static/js/main.ff72f9b0.js"
+  ]
+}
